@@ -1,0 +1,86 @@
+,Dish Name,Country,Region/City,Ingredients,Vegetarian,Primary Cooking Method
+0,Takoyaki,Japan,Osaka,Octopus,No,Fried
+1,Takoyaki,Japan,Osaka,Flour Batter,No,Fried
+2,Takoyaki,Japan,Osaka,Bonito Flakes,No,Fried
+3,Takoyaki,Japan,Osaka,Green Onions,No,Fried
+4,Vada Pav,India,Mumbai,Potato,Yes,Fried
+5,Vada Pav,India,Mumbai,Bread Bun,Yes,Fried
+6,Vada Pav,India,Mumbai,Chutney,Yes,Fried
+7,Funnel Cake,USA,Texas,Batter,Yes,Fried
+8,Funnel Cake,USA,Texas,Sugar,Yes,Fried
+9,Kathi Roll,India,Kolkata,Flatbread,No,Grilled
+10,Kathi Roll,India,Kolkata,Egg,No,Grilled
+11,Kathi Roll,India,Kolkata,Chicken,No,Grilled
+12,Kathi Roll,India,Kolkata,Onions,No,Grilled
+13,Kathi Roll,India,Kolkata,Chutney,No,Grilled
+14,Pad Thai,Thailand,Bangkok,Rice Noodles,Yes,Stir-Fried
+15,Pad Thai,Thailand,Bangkok,Tofu,Yes,Stir-Fried
+16,Pad Thai,Thailand,Bangkok,Eggs,Yes,Stir-Fried
+17,Pad Thai,Thailand,Bangkok,Peanuts,Yes,Stir-Fried
+18,Pad Thai,Thailand,Bangkok,Bean Sprouts,Yes,Stir-Fried
+19,Pani Puri,India,Delhi,Semolina,Yes,Assembled
+20,Pani Puri,India,Delhi,Tamarind,Yes,Assembled
+21,Pani Puri,India,Delhi,Chickpeas,Yes,Assembled
+22,Taiyaki,Japan,Kyoto,Flour,Yes,Baked
+23,Taiyaki,Japan,Kyoto,Red Bean Paste,Yes,Baked
+24,Gözleme,Turkey,Ankara,Dough,Yes,Grilled
+25,Gözleme,Turkey,Ankara,Spinach,Yes,Grilled
+26,Gözleme,Turkey,Ankara,Cheese,Yes,Grilled
+27,Kokoreç,Turkey,Izmir,Lamb Intestines,No,Grilled
+28,Kokoreç,Turkey,Izmir,Bread,No,Grilled
+29,Roti Sai Mai,Thailand,Ayutthaya,Roti,Yes,Assembled
+30,Roti Sai Mai,Thailand,Ayutthaya,Cotton Candy,Yes,Assembled
+31,Yakisoba,Japan,Tokyo,Noodles,No,Stir-Fried
+32,Yakisoba,Japan,Tokyo,Pork,No,Stir-Fried
+33,Yakisoba,Japan,Tokyo,Cabbage,No,Stir-Fried
+34,Yakisoba,Japan,Tokyo,Yakisoba Sauce,No,Stir-Fried
+35,Quesadilla,Mexico,Puebla,Tortilla,Yes,Grilled
+36,Quesadilla,Mexico,Puebla,Cheese,Yes,Grilled
+37,Quesadilla,Mexico,Puebla,Mushrooms,Yes,Grilled
+38,Elote,Mexico,Guadalajara,Corn,Yes,Boiled
+39,Elote,Mexico,Guadalajara,Mayo,Yes,Boiled
+40,Elote,Mexico,Guadalajara,Cheese,Yes,Boiled
+41,Elote,Mexico,Guadalajara,Chili Powder,Yes,Boiled
+42,Hot Dog,USA,New York,Sausage,No,Grilled
+43,Hot Dog,USA,New York,Bun,No,Grilled
+44,Hot Dog,USA,New York,Mustard,No,Grilled
+45,Hot Dog,USA,New York,Ketchup,No,Grilled
+46,Tacos al Pastor,Mexico,Mexico City,Pork,No,Grilled
+47,Tacos al Pastor,Mexico,Mexico City,Pineapple,No,Grilled
+48,Tacos al Pastor,Mexico,Mexico City,Onions,No,Grilled
+49,Tacos al Pastor,Mexico,Mexico City,Cilantro,No,Grilled
+50,Simit,Turkey,Istanbul,Flour,Yes,Baked
+51,Simit,Turkey,Istanbul,Sesame Seeds,Yes,Baked
+52,Simit,Turkey,Istanbul,Yeast,Yes,Baked
+53,Moo Ping,Thailand,Chiang Mai,Pork,No,Grilled
+54,Moo Ping,Thailand,Chiang Mai,Garlic,No,Grilled
+55,Moo Ping,Thailand,Chiang Mai,Soy Sauce,No,Grilled
+56,Moo Ping,Thailand,Chiang Mai,Sugar,No,Grilled
+57,Philly Cheesesteak,USA,Philadelphia,Beef,No,Grilled
+58,Philly Cheesesteak,USA,Philadelphia,Cheese,No,Grilled
+59,Philly Cheesesteak,USA,Philadelphia,Roll,No,Grilled
+60,Philly Cheesesteak,USA,Philadelphia,Onions,No,Grilled
+61,Falafel,Israel,Tel Aviv,Chickpeas,Yes,Fried
+62,Falafel,Israel,Tel Aviv,Herbs,Yes,Fried
+63,Falafel,Israel,Tel Aviv,Tahini Sauce,Yes,Fried
+64,Manakish,Lebanon,Tripoli,Flatbread,Yes,Baked
+65,Manakish,Lebanon,Tripoli,Za'atar,Yes,Baked
+66,Manakish,Lebanon,Tripoli,Olive Oil,Yes,Baked
+67,Shawarma,Lebanon,Beirut,Meat,No,Grilled
+68,Shawarma,Lebanon,Beirut,Pita Bread,No,Grilled
+69,Shawarma,Lebanon,Beirut,Garlic Sauce,No,Grilled
+70,Shawarma,Lebanon,Beirut,Pickles,No,Grilled
+71,Okonomiyaki,Japan,Hiroshima,Cabbage,No,Pan-Fried
+72,Okonomiyaki,Japan,Hiroshima,Flour,No,Pan-Fried
+73,Okonomiyaki,Japan,Hiroshima,Pork,No,Pan-Fried
+74,Okonomiyaki,Japan,Hiroshima,Sauce,No,Pan-Fried
+75,Okonomiyaki,Japan,Hiroshima,Mayo,No,Pan-Fried
+76,Bunny Chow,South Africa,Durban,Bread,No,Stewed
+77,Bunny Chow,South Africa,Durban,Curry,No,Stewed
+78,Suya,Nigeria,Lagos,Beef,No,Grilled
+79,Suya,Nigeria,Lagos,Skewers,No,Grilled
+80,Koshari,Egypt,Cairo,Lentils,Yes,Boiled
+81,Koshari,Egypt,Cairo,Rice,Yes,Boiled
+82,Koshari,Egypt,Cairo,Pasta,Yes,Boiled
+83,Koshari,Egypt,Cairo,Tomato Sauce,Yes,Boiled
+84,Koshari,Egypt,Cairo,Onions,Yes,Boiled

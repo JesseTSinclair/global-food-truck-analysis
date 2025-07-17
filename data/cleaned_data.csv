@@ -1,0 +1,26 @@
+,Dish Name,Country,Region/City,Ingredients,Typical Price (USD),Vegetarian,Primary Cooking Method
+0,Takoyaki,Japan,Osaka,"Octopus, Flour Batter, Bonito Flakes, Green Onions",3.28,No,Fried
+1,Vada Pav,India,Mumbai,"Potato, Spices, Bread Bun, Chutney",2.37,Yes,Fried
+2,Funnel Cake,USA,Texas,"Batter, Sugar, Oil",2.78,Yes,Fried
+3,Kathi Roll,India,Kolkata,"Flatbread, Egg, Chicken, Onions, Chutney",1.89,No,Grilled
+4,Pad Thai,Thailand,Bangkok,"Rice Noodles, Tofu, Eggs, Peanuts, Bean Sprouts",3.48,Yes,Stir-Fried
+5,Pani Puri,India,Delhi,"Semolina, Tamarind, Chickpeas, Spices",0.47,Yes,Assembled
+6,Taiyaki,Japan,Kyoto,"Flour, Red Bean Paste",2.0,Yes,Baked
+7,Gözleme,Turkey,Ankara,"Dough, Spinach, Cheese",4.69,Yes,Grilled
+8,Kokoreç,Turkey,Izmir,"Lamb Intestines, Spices, Bread",4.26,No,Grilled
+9,Roti Sai Mai,Thailand,Ayutthaya,"Roti, Cotton Candy",3.68,Yes,Assembled
+10,Yakisoba,Japan,Tokyo,"Noodles, Pork, Cabbage, Yakisoba Sauce",2.89,No,Stir-Fried
+11,Quesadilla,Mexico,Puebla,"Tortilla, Cheese, Mushrooms",1.07,Yes,Grilled
+12,Elote,Mexico,Guadalajara,"Corn, Mayo, Cheese, Chili Powder",3.48,Yes,Boiled
+13,Hot Dog,USA,New York,"Sausage, Bun, Mustard, Ketchup",3.77,No,Grilled
+14,Tacos al Pastor,Mexico,Mexico City,"Pork, Pineapple, Onions, Cilantro",0.66,No,Grilled
+15,Simit,Turkey,Istanbul,"Flour, Sesame Seeds, Yeast",0.71,Yes,Baked
+16,Moo Ping,Thailand,Chiang Mai,"Pork, Garlic, Soy Sauce, Sugar",0.85,No,Grilled
+17,Philly Cheesesteak,USA,Philadelphia,"Beef, Cheese, Roll, Onions",0.44,No,Grilled
+18,Falafel,Israel,Tel Aviv,"Chickpeas, Herbs, Spices, Tahini Sauce",3.0,Yes,Fried
+19,Manakish,Lebanon,Tripoli,"Flatbread, Za'atar, Olive Oil",2.5,Yes,Baked
+20,Shawarma,Lebanon,Beirut,"Meat, Pita Bread, Garlic Sauce, Pickles",4.5,No,Grilled
+21,Okonomiyaki,Japan,Hiroshima,"Cabbage, Flour, Pork, Sauce, Mayo",5.0,No,Pan-Fried
+22,Bunny Chow,South Africa,Durban,"Bread, Curry",3.5,No,Stewed
+23,Suya,Nigeria,Lagos,"Beef, Spices, Skewers",2.5,No,Grilled
+24,Koshari,Egypt,Cairo,"Lentils, Rice, Pasta, Tomato Sauce, Onions",2.8,Yes,Boiled
